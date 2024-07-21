@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"9c1daf70fa913035bdc35b14bd0cd834","lockfileHash":"afe00810f9cef88d191fa428eb7d1d88","guessedImports":["module-alias","@utils/animate.js","@main/sharder.js","@root/clients","dotenv"],"guessedImportsHash":"be15548d233a989fce2dd869db86fe94"}}}
